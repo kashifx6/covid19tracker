@@ -1,5 +1,6 @@
 {
   "name": "livecovidtracker",
+   "homepage": "https://kashifx6.github.io/covid19tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
